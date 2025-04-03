@@ -21,7 +21,7 @@ This project demonstrates the skills needed for IT roles involving system admini
 
 ## Steps
 
-### 1. Azure Virtual Machine Setup (for more detailed steps go to 
+### 1. Azure Virtual Machine Setup (for more detailed steps go to [here](https://github.com/Derm-IT/azure-network-protocols#part-1-virtual-machine-creation))
 
 * Create an Azure Virtual Machine.
     * **Image:** Windows 10 (Check box for licensing!)
@@ -34,8 +34,10 @@ This project demonstrates the skills needed for IT roles involving system admini
     * ![image](https://github.com/user-attachments/assets/c2c9cc4f-6c78-4ebf-9276-723275f0415d)
 * Connect to the VM.
     *  Open Remote Desktop Connect (RDP).
-    *  Connect to the public ip of osticket-vm
+    *  Connect to the public ip of osticket-vm found here
+    *  ![image](https://github.com/user-attachments/assets/d91fce62-9241-4514-89da-a95bc75a5329)
     *  Sign in as user you just created
+    *  ![image](https://github.com/user-attachments/assets/b878a89d-3799-40c4-8cc4-774638a7ee46)
 
 ### 2. Initial VM Preparation & Prerequisite Staging
 
